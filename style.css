@@ -1,0 +1,122 @@
+*,
+**::before,
+*::after{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+
+}
+
+#div1{
+  color: rgba(64, 64, 64, 1);
+  font-family: Handjet;
+  background-color: rgba(230, 255, 251, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 96px;
+  height: 31px;
+  border: 1px solid var(--Neutral-Grey600, #404040);
+  border-radius: 8px;
+  margin:10px;
+}
+
+#div2{
+  color: rgba(64, 64, 64, 1);
+  font-family: Handjet;
+  background-color: rgba(181, 245, 236, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 96px;
+  height: 31px;
+  border: 1px solid var(--Neutral-Grey600, #404040);
+  border-radius: 8px;
+  margin:10px;
+}
+
+#div3{
+    color: rgba(64, 64, 64, 1);
+    font-family: Handjet;
+    background-color: rgba(181, 245, 236, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid var(--Neutral-Grey600, #404040);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  #div4{
+    color: rgba(64, 64, 64, 1);
+    font-family: Handjet;
+    background-color:rgba(92, 219, 211, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid var(--Neutral-Grey600, #404040);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  #div5{
+    color: rgba(64, 64, 64, 1);
+    font-family: Handjet;
+    background-color:rgba(54, 207, 201, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid var(--Neutral-Grey600, #404040);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  #div6{
+    color:rgba(255, 255, 255, 1);
+    font-family: Handjet;
+    background-color:rgba(19, 194, 194, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid rgba(234, 234, 234, 1);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  #div7{
+    color:rgba(255, 255, 255, 1);
+    font-family: Handjet;
+    background-color:rgba(8, 151, 156, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid rgba(234, 234, 234, 1);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  #div8{
+    color:rgba(255, 255, 255, 1);
+    font-family: Handjet;
+    background-color:rgba(0, 109, 117, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 96px;
+    height: 31px;
+    border: 1px solid rgba(234, 234, 234, 1);
+    border-radius: 8px;
+    margin:10px
+  }
+
+  
